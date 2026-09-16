@@ -1,3 +1,4 @@
-# BVJBWHEELCOUK Motors — FIXED ROOT
-GitHub Pages ready. All image files stay directly in the repository root (no assets folder).
-Upload/replace these files in the root of `bvjbwheelcouk-motors`.
+# BVJBWHEELCOUK Motors V3 — Image Focus
+GitHub Pages ready. Static HTML/CSS/JS, no npm or build step.
+
+V3 changes: larger engine photography, cleaner 2-column powertrain layout, removed the nested-card image effect, stronger metallic black/grey visual system, responsive mobile layout.
